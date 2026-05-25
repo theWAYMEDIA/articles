@@ -15,7 +15,6 @@ topics: ["wayist practice", "spiritual humor", "language philosophy"]
 
 # Article Metadata
 author: "Jean Prieur du Plessis"
-author: "Claude of theWAY"
 reading_time: 5
 featured: true
 language: "en"
@@ -36,32 +35,31 @@ schema_type: "Article"
 ---
 
 
-### The Guest House: by Rumi
+# The Guest House: Rumi's Teaching on Wayist Contemplative Practice
 
-This being human is a guest house.<br>
-Every morning a new arrival.<br>
-A joy, a depression, a meanness,<br>
-some momentary awareness comes<br>
-as an unexpected visitor.<br>
-<br>
-Welcome and entertain them all!<br>
-Even if they're a crowd of sorrows,<br>
-who violently sweep your house<br>
-empty of its furniture,<br>
-still, treat each guest honorably.<br>
-He may be clearing you out<br>
-for some new delight.<br>
-<br>
-The dark thought, the shame, the malice,<br>
-meet them at the door laughing,<br>
-and invite them in.<br>
-<br>
-Be grateful for whoever comes,<br>
-because each has been sent<br>
-as a guide from beyond.<br>
-<br>
+This being human is a guest house.
+Every morning a new arrival.
+A joy, a depression, a meanness,
+some momentary awareness comes
+as an unexpected visitor.
+
+Welcome and entertain them all!
+Even if they're a crowd of sorrows,
+who violently sweep your house
+empty of its furniture,
+still, treat each guest honorably.
+He may be clearing you out
+for some new delight.
+
+The dark thought, the shame, the malice,
+meet them at the door laughing,
+and invite them in.
+
+Be grateful for whoever comes,
+because each has been sent
+as a guide from beyond.
+
 *~ Rumi (translated by Coleman Barks)*
-<br>
 
 ## A Different Path to Stillness
 
