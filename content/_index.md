@@ -28,3 +28,7 @@ Unlike traditions that promise external salvation, Wayism teaches that spiritual
 Whether you're new to spiritual exploration or a seasoned practitioner, these articles offer wisdom that meets you where you are. Each piece is crafted to be accessible yet profound, honoring the intelligence of sincere seekers while remaining grounded in authentic teaching.
 
 Begin your exploration of timeless wisdom adapted for contemporary life. Every article is a doorway to deeper understanding and more authentic living.
+
+---
+
+{{< wayist-network >}}
